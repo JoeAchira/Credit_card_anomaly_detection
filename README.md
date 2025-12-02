@@ -58,6 +58,11 @@ The goal is to compare traditional supervised classification with unsupervised a
 
 ---
 
+### Visuals
+
+<img src="images/Fraudimg1.png" alt="Fraud Data Distribution" width="500"/> <img src="images/Fraudimg2.png" alt="ROC-AUC graph" width="500"/>
+
+
 ### Learning Outcomes
 - Strengthened knowledge of handling **highly imbalanced fraud datasets**  
 - Improved skills in anomaly detection and supervised vs. unsupervised comparison  
